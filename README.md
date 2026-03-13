@@ -6,7 +6,7 @@ Hi! I'm Carlos, a software engineer focused on building modern web applications.
 ⚛️ Most of my work revolves around **React ecosystems**, scalable frontend architecture, and maintainable codebases.  
 🧠 Interested in **system design, performance, and developer experience**.  
 🤖 Exploring ways to integrate **AI into development workflows**.  
-📍 Working **remotely** from the lovely Mallorca, Spain.
+📍 Working **remotely** from Mallorca, Spain.
 
 ---
 
@@ -17,18 +17,31 @@ Hi! I'm Carlos, a software engineer focused on building modern web applications.
 - **WordsFrame**: A web app that turns meaningful words into custom **Scrabble-style posters** arranged automatically as a crossword grid.  
 Users create a personalized design and receive a **high-resolution poster ready to print or frame as a gift**.
 
-- **WordPress websites** developed for businesses and professionals:
-  - [Udyrsport](https://udyrsport.com)
-  - [Nuba](https://nubamethod.com)
-  - [Clinica Dental Art](https://www.clinicadentalartmallorca.com/)
+<ul>
+<li><strong>WordPress websites developed for businesses and professionals:</strong>
+<ul style="list-style-type:none; padding-left:0;">
+<li><a href="https://udyrsport.es" target="_blank">Udyrsport</a></li>
+<li><a href="https://nubamethod.com" target="_blank">Nuba</a></li>
+<li><a href="https://www.clinicadentalartmallorca.com" target="_blank">Clinica Dental Art</a></li>
+</ul>
+</li>
+</ul>
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/caarlosmf/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/carlitosmarin)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-marin-fernandez/)
+<a href="https://www.instagram.com/caarlosmf/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+</a>
+
+<a href="https://github.com/carlitosmarin" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/carlos-marin-fernandez/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+</a>
 
 ---
 
