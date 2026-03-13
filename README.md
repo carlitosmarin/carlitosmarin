@@ -14,8 +14,7 @@ Hi! I'm Carlos, a software engineer focused on building modern web applications.
 
 [![WordsFrame](https://wordsframe.com/logo.png)](https://wordsframe.com)
 
-- **WordsFrame**: A web app that turns meaningful words into custom **Scrabble-style posters** arranged automatically as a crossword grid.  
-Users create a personalized design and receive a **high-resolution poster ready to print or frame as a gift**.
+- **WordsFrame**: A web app that turns meaningful words into custom **Scrabble-style posters** arranged automatically as a crossword grid. Users create a personalized design and receive a **high-resolution poster ready to print or frame as a gift**.
 
 <ul>
 <li><strong>WordPress websites developed for businesses and professionals:</strong>
